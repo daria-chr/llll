@@ -1,0 +1,14 @@
+C:\Users\Daria\source\repos\lab5class\bin\Debug\net8.0\lab5class.exe
+C:\Users\Daria\source\repos\lab5class\bin\Debug\net8.0\lab5class.deps.json
+C:\Users\Daria\source\repos\lab5class\bin\Debug\net8.0\lab5class.runtimeconfig.json
+C:\Users\Daria\source\repos\lab5class\bin\Debug\net8.0\lab5class.dll
+C:\Users\Daria\source\repos\lab5class\bin\Debug\net8.0\lab5class.pdb
+C:\Users\Daria\source\repos\lab5class\obj\Debug\net8.0\lab5class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daria\source\repos\lab5class\obj\Debug\net8.0\lab5class.AssemblyInfoInputs.cache
+C:\Users\Daria\source\repos\lab5class\obj\Debug\net8.0\lab5class.AssemblyInfo.cs
+C:\Users\Daria\source\repos\lab5class\obj\Debug\net8.0\lab5class.csproj.CoreCompileInputs.cache
+C:\Users\Daria\source\repos\lab5class\obj\Debug\net8.0\lab5class.dll
+C:\Users\Daria\source\repos\lab5class\obj\Debug\net8.0\refint\lab5class.dll
+C:\Users\Daria\source\repos\lab5class\obj\Debug\net8.0\lab5class.pdb
+C:\Users\Daria\source\repos\lab5class\obj\Debug\net8.0\lab5class.genruntimeconfig.cache
+C:\Users\Daria\source\repos\lab5class\obj\Debug\net8.0\ref\lab5class.dll
